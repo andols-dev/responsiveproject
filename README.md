@@ -1,1 +1,1 @@
-Responnsive website procet focusing on HTML, CSS and Javascript.
+Responsive website project focusing on HTML, CSS and Javascript. Visit demo of website: https://andols-dev.github.io/responsiveproject/
